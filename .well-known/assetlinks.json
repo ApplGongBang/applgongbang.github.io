@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.applgongbang.napli",
+      "sha256_cert_fingerprints": [
+        "D6:22:A5:68:00:7B:1D:62:74:82:7D:1C:E4:70:B4:89:DE:5F:08:B5:11:A5:F5:98:0E:92:EA:14:BF:C1:64:B6"
+      ]
+    }
+  }
+]
