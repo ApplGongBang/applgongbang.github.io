@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["9KS8FMV3FB.com.applgongbang.napli"],
+        "components": [
+          {
+            "/": "/song/*",
+            "comment": "Matches any URL with a path starting with /song/"
+          }
+        ]
+      }
+    ]
+  }
+}
