@@ -7,6 +7,14 @@
           {
             "/": "/song/*",
             "comment": "Matches any URL with a path starting with /song/"
+          },
+          {
+            "/": "/settings/tools/saju*",
+            "comment": "Matches any URL with a path starting with /settings/tools/saju"
+          },
+          {
+            "/": "/",
+            "comment": "Matches the root URL"
           }
         ]
       }
